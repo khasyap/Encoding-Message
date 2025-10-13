@@ -1,1 +1,1 @@
-System
+System.out.Println
